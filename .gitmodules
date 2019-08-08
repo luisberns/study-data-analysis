@@ -1,0 +1,3 @@
+[submodule "2016-12-fake-news-survey"]
+	path = 2016-12-fake-news-survey
+	url = https://github.com/luisberns/2016-12-fake-news-survey
