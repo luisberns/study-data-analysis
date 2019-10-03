@@ -1,5 +1,5 @@
 # Corruption analysis
-Today is possible for us to readily and constantly check information online, over the years more and more people got access to mobile devices and this medium became the main for information exchange and gathering. We can imagine how this can influency society, but we're not going to study how people are interacting or being influenced, we're going to analyze the relations between the Internet users...
+Today is possible for us to readily and constantly check information online, over the years more and more people got access to mobile devices and this medium became the main for information exchange and gathering. We can imagine how this can influency society, but we're not going to study how people are interacting or being influenced, we're going to analyze the relations between CPI score of the country, the Number of Internet Users, and the Number of Journalists Killed.
 
 ## About the data
 
