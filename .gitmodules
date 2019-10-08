@@ -1,3 +1,9 @@
 [submodule "2016-12-fake-news-survey"]
 	path = 2016-12-fake-news-survey
 	url = https://github.com/luisberns/2016-12-fake-news-survey
+[submodule "ten-rules-jupyter"]
+	path = ten-rules-jupyter
+	url = https://github.com/luisberns/ten-rules-jupyter
+[submodule "corruption-analysis"]
+	path = dand-udacity/corruption-analysis
+	url = https://github.com/luisberns/corruption-analysis
